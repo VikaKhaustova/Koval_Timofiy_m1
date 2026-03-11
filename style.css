@@ -1,0 +1,31 @@
+
+body{
+  font-family: sans-serif;
+  
+}
+
+header{
+    background-color: #eb4034;
+    text-align: center;
+    padding: 10px;
+}
+
+a{
+    background-color: white;
+    padding: 5px;
+    font-size: 20px;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
+h2{
+    font-size: 35px;
+    background-color:#f2ef2e;
+}
+/*Зроби цей сайт красивим 😉*/
